@@ -60,7 +60,7 @@
     animation: face-spin 2s infinite linear; */
     display: block;
     position: relative;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
   
   /* @keyframes face-spin {
