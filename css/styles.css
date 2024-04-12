@@ -5,6 +5,10 @@
     vertical-align: bottom;
   }
   
+  body {
+    padding-top: 20px;
+  }
+
   img {
     max-height: 200px;
   }
