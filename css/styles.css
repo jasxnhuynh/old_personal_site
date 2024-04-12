@@ -4,10 +4,6 @@
     display: flex;
     vertical-align: bottom;
   }
-  
-  body {
-    padding-top: 20px;
-  }
 
   img {
     max-height: 200px;
@@ -16,6 +12,7 @@
   main {
     /* text-align: center; */
     max-width: 500px;
+    margin-top: 20px;
     margin: 0 auto;
     padding: 0 20%;
   }
