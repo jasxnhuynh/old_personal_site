@@ -23,7 +23,7 @@
   p {
     text-align: left;
     margin: auto;
-    max-width: 600px;
+    max-width: 700px;
     font-size: 18px;
     line-height: 1.6;
     font-family: "Roboto";
@@ -32,7 +32,7 @@
   h1 {
     text-align: left;
     font-size: 2.5rem;
-    max-width: 600px;
+    max-width: 700px;
     font-weight: 900;
     font-family: "Roboto";
   }
@@ -64,7 +64,7 @@
     animation: face-spin 2s infinite linear; */
     display: block;
     position: relative;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
   
   /* @keyframes face-spin {
@@ -106,7 +106,7 @@
     column-gap: 2rem;
     margin-top: 0;
     padding-top: 0;
-    max-width: 500px;
+    max-width: 700px;
     margin: auto;
     text-align: left;
   }
@@ -131,7 +131,7 @@
   /* global */
   #intro {
     display: flex;
-    max-width: 500px;
+    max-width: 700px;
     text-align: left;
     align-content: flex-start;
     align-items: center;
@@ -145,7 +145,7 @@
   p {
     text-align: left;
     margin: auto;
-    max-width: 600px;
+    max-width: 700px;
     font-size: 18px;
     line-height: 1.6;
     font-family: "Roboto";
@@ -154,7 +154,7 @@
   h1 {
     text-align: left;
     font-size: 2.5rem;
-    max-width: 600px;
+    max-width: 700px;
     font-weight: 900;
     font-family: "Roboto";
   }
