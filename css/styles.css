@@ -56,10 +56,11 @@ a.icon-a {
 }
 
 .face {
-  height: 15rem;
+  height: 20rem;
   display: block;
   position: relative;
-  margin-bottom: 20px;
+  left: 10px;
+  margin-bottom: 30px;
 }
 
 @media (max-width: 740px) {
