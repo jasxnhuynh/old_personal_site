@@ -1,2 +1,2 @@
-# jasonhuynh.me
-Personal site @ jasonhuynh.me
+# old personal site
+old personal site @ jasonhuynh.me
